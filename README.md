@@ -1,6 +1,8 @@
 
 # 📊 Employee Attrition Analysis & HR Insights
 
+![Alt Text](dashboard/all.png) <br>
+
 ## 📌 Project Overview
 Employee attrition (resignation/turnover) is a critical challenge for Human Resources (HR) departments.  
 Understanding **why employees leave**, **which groups are most at risk**, and **what patterns drive attrition** can help organizations reduce turnover and improve workforce stability.  
@@ -29,8 +31,8 @@ The analysis was delivered through an **interactive dashboard** that provides **
 ## 🎯 Actionable Insights for HR
 
 ### 1️⃣ Attrition by Demographics  
-
 **Age (26–35 dominates attrition)**  
+![Alt Text](dashboard/age.png) <br>
 - 📊 >45% of attrition comes from employees aged 26–35.  
 - 💡 This is the *early-to-mid career* phase → employees seek **stability, promotions, or higher salaries**.  
 - ✅ **HR Action**:  
@@ -38,6 +40,7 @@ The analysis was delivered through an **interactive dashboard** that provides **
   - Provide mentorship programs to ensure clear career direction.  
 
 **Gender (male attrition > female attrition)**  
+![Alt Text](dashboard/gender.png) <br>
 - 📊 Male attrition is higher (136 vs 76).  
 - 💡 Often observed in male-dominated roles (Sales/Technical).  
 - ✅ **HR Action**:  
@@ -47,6 +50,7 @@ The analysis was delivered through an **interactive dashboard** that provides **
 ---
 
 ### 2️⃣ Attrition by Education Field  
+![Alt Text](dashboard/attrition.png) <br>
 - 📊 Life Sciences (38%) & Medical (25%) account for a large share of attrition.  
 - 💡 These fields are in high external demand → employees can easily move to competitors.  
 - ✅ **HR Action**:  
@@ -56,6 +60,7 @@ The analysis was delivered through an **interactive dashboard** that provides **
 ---
 
 ### 3️⃣ Attrition by Salary Slab  
+![Alt Text](dashboard/salary.png) <br>
 - 📊 Majority of attrition occurs at salaries ≤ $5K (158 out of 229 cases).  
 - 💡 Low compensation is a key driver of resignations.  
 - ✅ **HR Action**:  
@@ -66,6 +71,7 @@ The analysis was delivered through an **interactive dashboard** that provides **
 ---
 
 ### 4️⃣ Attrition by Job Role  
+![Alt Text](dashboard/job.png) <br>
 - 📊 Highest attrition observed in: Sales Executives (55), Lab Technicians (60), Research Scientists (44).  
 - 💡 These roles face **high workloads & limited career growth opportunities**.  
 - ✅ **HR Action**:  
@@ -75,7 +81,7 @@ The analysis was delivered through an **interactive dashboard** that provides **
 ---
 
 ### 5️⃣ Attrition by Years of Service  
-
+![Alt Text](dashboard/years.png) <br>
 **Early attrition (0–2 years)**  
 - 📊 Sharp increase in resignations within 1–2 years (57 cases in year 1).  
 - 💡 Indicates weak onboarding & employee engagement.  
@@ -93,7 +99,9 @@ The analysis was delivered through an **interactive dashboard** that provides **
 ---
 
 ### 6️⃣ Department-Specific Insights  
-
+![Alt Text](dashboard/humanresources.png) <br>
+![Alt Text](dashboard/sales.png) <br>
+![Alt Text](dashboard/research&devoplement.png) <br>
 **HR Department attrition (19.4%) > Sales (13.8%)**  
 - 💡 High HR turnover may be linked to job stress, lack of recognition, or limited decision-making authority.  
 - ✅ **HR Action**:  
